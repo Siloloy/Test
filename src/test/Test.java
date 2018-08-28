@@ -28,7 +28,7 @@ public class Test {
         }
         return factors;
     }
-    
+    // djksaldjasljdsakldkjlas
     public static boolean primeCheck(int num){
         long startTime = System.nanoTime();
         boolean isPrime=true;
