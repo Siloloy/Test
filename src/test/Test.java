@@ -29,7 +29,7 @@ public class Test {
         return factors;
     }
     
-    // hoayydaa
+    // hoayydaadsadsa
     
     public static boolean primeCheck(int num){
         long startTime = System.nanoTime();
